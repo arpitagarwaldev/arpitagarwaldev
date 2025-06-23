@@ -7,15 +7,16 @@
 
 ## 🚀 About Arpit Agarwal (@arpitagarwaldev)
 
-**Data Scientist | AI Engineer | Python Expert**
+**AI Research Engineer | Agentic AI Specialist | LLM Fine-tuning Expert**
 
-I'm **Arpit Agarwal**, a passionate Data Scientist and AI Engineer who builds intelligent solutions using cutting-edge AI tools and Python.
+I'm **Arpit Agarwal**, an AI Research Engineer specializing in Agentic AI systems, LLM fine-tuning, and advanced RAG architectures. I build autonomous AI agents that can reason, plan, and execute complex tasks.
 
 ### 🔥 What I Do
-- 🤖 **AI/ML Engineering** - Building intelligent systems with Python
-- 📊 **Data Science** - Extracting insights from complex datasets
-- 🛠️ **AI Tools Integration** - ChatGPT, Claude, Gemini, and custom AI solutions
-- 🐍 **Python Development** - Advanced Python for AI/ML applications
+- 🤖 **Agentic AI Systems** - Building autonomous AI agents with multi-step reasoning
+- 🧠 **LLM Fine-tuning** - Custom model training with LoRA, QLoRA, and PEFT techniques
+- 🔗 **Multi-Context Protocol (MCP)** - Advanced context management for AI applications
+- 📚 **RAG Architecture** - Retrieval-Augmented Generation with vector databases
+- 🏃 **Small Language Models** - Optimizing SLMs for edge deployment and efficiency
 
 ## 🛠️ Tech Stack
 
@@ -23,14 +24,17 @@ I'm **Arpit Agarwal**, a passionate Data Scientist and AI Engineer who builds in
 arpit = {
     "name": "Arpit Agarwal",
     "username": "arpitagarwaldev",
-    "role": "Data Scientist & AI Engineer",
-    "languages": ["Python", "R", "SQL", "JavaScript"],
-    "ai_tools": ["ChatGPT", "Claude", "Gemini", "GitHub Copilot"],
-    "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "Keras"],
-    "data_tools": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"],
-    "databases": ["PostgreSQL", "MongoDB", "Redis", "BigQuery"],
-    "cloud": ["AWS", "Google Cloud", "Azure", "Hugging Face"],
-    "specialties": ["Deep Learning", "NLP", "Computer Vision", "MLOps"]
+    "role": "AI Research Engineer & Agentic AI Specialist",
+    "languages": ["Python", "CUDA", "SQL", "Rust", "JavaScript"],
+    "agentic_ai": ["LangChain", "AutoGPT", "CrewAI", "Multi-Agent Systems"],
+    "llm_tech": ["Transformers", "LoRA", "QLoRA", "PEFT", "Unsloth"],
+    "frameworks": ["PyTorch", "TensorFlow", "Hugging Face", "vLLM", "Ollama"],
+    "rag_stack": ["ChromaDB", "Pinecone", "Weaviate", "FAISS", "LlamaIndex"],
+    "vector_dbs": ["Qdrant", "Milvus", "pgvector", "Redis Vector"],
+    "mcp_tools": ["Context Switching", "Memory Management", "Agent Orchestration"],
+    "slm_models": ["Phi-3", "Gemma", "Qwen", "CodeLlama", "Mistral-7B"],
+    "deployment": ["Docker", "Kubernetes", "MLflow", "Weights & Biases"],
+    "specialties": ["Agentic AI", "LLM Fine-tuning", "RAG Systems", "MCP"]
 }
 ```
 
@@ -48,32 +52,43 @@ arpit = {
 
 ## 🏆 Featured Projects
 
-### [🤖 AI-Powered Data Analytics](https://github.com/arpitagarwaldev/ai-data-analytics)
-Intelligent data analysis using Python and AI tools
-- **Machine Learning models** for predictive analytics
-- **AI-assisted** data visualization and insights
-- **Python-based** automation for data workflows
+### [🤖 Agentic AI Framework](https://github.com/arpitagarwaldev/agentic-ai-framework)
+Advanced multi-agent systems with autonomous reasoning
+- **Multi-Agent Orchestration** using CrewAI and LangChain
+- **Tool-calling capabilities** with function calling and API integration
+- **Memory persistence** and context management across sessions
+- **Chain-of-thought** reasoning and planning algorithms
 
-### [🐍 Python AI Toolkit](https://github.com/arpitagarwaldev/python-ai-toolkit)
-Comprehensive Python tools for AI/ML development
-- **Pre-built models** and utilities
-- **AI tool integrations** (ChatGPT, Claude APIs)
-- **Data science** templates and workflows
+### [🧠 LLM Fine-tuning Suite](https://github.com/arpitagarwaldev/llm-finetuning-suite)
+Production-ready LLM customization and optimization
+- **LoRA/QLoRA** implementation for efficient fine-tuning
+- **PEFT techniques** for parameter-efficient training
+- **Custom dataset preparation** and tokenization pipelines
+- **Model quantization** and optimization for deployment
+
+### [📚 Advanced RAG System](https://github.com/arpitagarwaldev/advanced-rag-system)
+Next-generation Retrieval-Augmented Generation architecture
+- **Multi-modal RAG** with text, image, and code retrieval
+- **Hybrid search** combining dense and sparse retrieval
+- **Contextual chunking** and semantic document processing
+- **Real-time vector indexing** with incremental updates
 
 ## 🌟 Achievements
 
-- 🏆 **Top 1%** GitHub contributor in AI/ML tools
-- 📊 **1000+** data scientists using my Python tools
-- 🤖 **500+** AI models deployed
-- 🐍 **Python** expert and open source contributor
+- 🏆 **Top 1%** GitHub contributor in Agentic AI and LLM tools
+- 🤖 **50+** production AI agents deployed across industries
+- 🧠 **100+** LLMs fine-tuned using LoRA/QLoRA techniques
+- 📚 **25+** RAG systems built with advanced retrieval methods
+- 🔗 **MCP protocols** implemented for enterprise AI applications
 
 ## 💼 Professional Services
 
 **Arpit Agarwal** offers:
-- 🤖 **AI/ML Consulting** - Custom AI solutions with Python
-- 📊 **Data Science Services** - Advanced analytics and insights
-- 🛠️ **AI Tool Integration** - Implement ChatGPT, Claude in your workflow
-- 🐍 **Python Development** - Scalable AI/ML applications
+- 🤖 **Agentic AI Development** - Custom autonomous AI agents and multi-agent systems
+- 🧠 **LLM Fine-tuning Services** - Domain-specific model customization with LoRA/QLoRA
+- 📚 **Enterprise RAG Solutions** - Advanced retrieval systems with vector databases
+- 🔗 **MCP Implementation** - Multi-context protocol for complex AI workflows
+- 🏃 **SLM Optimization** - Small language model deployment and edge computing
 
 ## 🤝 Let's Connect
 
@@ -88,18 +103,20 @@ Comprehensive Python tools for AI/ML development
 
 ## 💡 Fun Facts
 
-- ☕ Coffee enthusiast and Python code optimizer
-- 🤖 Built 100+ AI models using various tools and frameworks
-- 🐍 Python expert with 5+ years in AI/ML development
-- 📊 Data visualization and storytelling enthusiast
-- 🧠 Always exploring new AI tools and techniques
+- ☕ Coffee-fueled AI researcher and system architect
+- 🤖 Architected 50+ agentic AI systems with autonomous decision-making
+- 🧠 Fine-tuned 100+ LLMs using cutting-edge PEFT techniques
+- 📚 Built enterprise RAG systems handling millions of documents
+- 🔗 Pioneer in Multi-Context Protocol (MCP) implementations
+- 🏃 Optimized SLMs for 10x faster inference on edge devices
 
 ## 📈 Current Focus
 
-- 🤖 Building AI-powered Python applications
-- 📊 Creating data science tutorials and tools
-- 🐍 Contributing to Python AI/ML open source projects
-- 🛠️ Exploring cutting-edge AI tools and integrations
+- 🤖 **Agentic AI Research** - Developing next-gen autonomous AI systems
+- 🧠 **LLM Architecture** - Experimenting with novel fine-tuning techniques
+- 📚 **RAG Innovation** - Advanced retrieval methods and vector optimization
+- 🔗 **MCP Standards** - Contributing to Multi-Context Protocol development
+- 🏃 **SLM Efficiency** - Pushing boundaries of small model performance
 
 ---
 
@@ -107,7 +124,7 @@ Comprehensive Python tools for AI/ML development
 
 **⭐ Star my repositories if you find them useful!**
 
-**Arpit Agarwal** | **@arpitagarwaldev** | **Data Scientist & AI Engineer**
+**Arpit Agarwal** | **@arpitagarwaldev** | **AI Research Engineer & Agentic AI Specialist**
 
 *Transforming ideas into digital solutions*
 
@@ -115,4 +132,4 @@ Comprehensive Python tools for AI/ML development
 
 ---
 
-*Keywords: Arpit Agarwal, arpitagarwaldev, data scientist, AI engineer, Python developer, machine learning, artificial intelligence, data analysis, AI tools, ChatGPT, Claude, deep learning, data science*
+*Keywords: Arpit Agarwal, arpitagarwaldev, agentic AI, AI agents, LLM fine-tuning, LoRA, QLoRA, PEFT, RAG systems, Multi-Context Protocol, MCP, small language models, SLM, vector databases, autonomous AI, AI research engineer*

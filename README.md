@@ -44,7 +44,7 @@ arpit = {
 
 ![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitagarwaldev&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitagarwaldev&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitagarwaldev&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arpitagarwaldev&theme=radical&hide_border=true)
 

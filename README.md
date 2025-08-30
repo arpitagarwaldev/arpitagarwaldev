@@ -1,52 +1,62 @@
-# arpitagarwaldev
+# Arpit Agarwal (@arpitagarwaldev) - AI Research Engineer & Agentic AI Specialist
 
-# Hi there, I'm Arpit Agarwal 👋
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Research+Engineer;Agentic+AI+Specialist;LLM+Fine-tuning+Expert;RAG+Systems+Architect;Multi-Agent+Systems+Developer)
 
 [![GitHub followers](https://img.shields.io/github/followers/arpitagarwaldev?style=social)](https://github.com/arpitagarwaldev)
 [![Profile views](https://komarev.com/ghpvc/?username=arpitagarwaldev&color=brightgreen)](https://github.com/arpitagarwaldev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/arpitagarwaldev)
 
-## 🚀 About Arpit Agarwal (@arpitagarwaldev)
+</div>
 
-**AI Research Engineer | Agentic AI Specialist | LLM Fine-tuning Expert**
+## 👨💻 About Arpit Agarwal
 
-I'm **Arpit Agarwal**, an AI Research Engineer specializing in Agentic AI systems, LLM fine-tuning, and advanced RAG architectures. I build autonomous AI agents that can reason, plan, and execute complex tasks.
+**Arpit Agarwal** is a leading **AI Research Engineer** specializing in **Agentic AI systems**, **LLM fine-tuning**, and **autonomous AI agents**. Based in India, Arpit transforms complex AI research into scalable production applications.
 
-### 🔥 What I Do
-- 🤖 **Agentic AI Systems** - Building autonomous AI agents with multi-step reasoning
-- 🧠 **LLM Fine-tuning** - Custom model training with LoRA, QLoRA, and PEFT techniques
-- 🔗 **Multi-Context Protocol (MCP)** - Advanced context management for AI applications
-- 📚 **RAG Architecture** - Retrieval-Augmented Generation with vector databases
-- 🏃 **Small Language Models** - Optimizing SLMs for edge deployment and efficiency
+🔥 **Core Expertise:**
+- 🤖 **Agentic AI & Multi-Agent Systems** - Autonomous reasoning and task execution
+- 🧠 **LLM Fine-tuning** - LoRA, QLoRA, PEFT optimization techniques  
+- 📚 **RAG Architecture** - Advanced retrieval-augmented generation systems
+- 🔗 **Multi-Context Protocol (MCP)** - Context management for AI applications
+- 🏃 **Small Language Models** - Edge deployment and efficiency optimization
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</div>
 
 ```python
-arpit = {
+arpit_agarwal = {
     "name": "Arpit Agarwal",
-    "username": "arpitagarwaldev",
-    "role": "AI Research Engineer & Agentic AI Specialist",
-    "languages": ["Python", "CUDA", "SQL", "Rust", "JavaScript"],
-    "agentic_ai": ["LangChain", "AutoGPT", "CrewAI", "Multi-Agent Systems"],
-    "llm_tech": ["Transformers", "LoRA", "QLoRA", "PEFT", "Unsloth"],
-    "frameworks": ["PyTorch", "TensorFlow", "Hugging Face", "vLLM", "Ollama"],
-    "rag_stack": ["ChromaDB", "Pinecone", "Weaviate", "FAISS", "LlamaIndex"],
-    "vector_dbs": ["Qdrant", "Milvus", "pgvector", "Redis Vector"],
-    "mcp_tools": ["Context Switching", "Memory Management", "Agent Orchestration"],
-    "slm_models": ["Phi-3", "Gemma", "Qwen", "CodeLlama", "Mistral-7B"],
-    "deployment": ["Docker", "Kubernetes", "MLflow", "Weights & Biases"],
+    "username": "arpitagarwaldev", 
+    "title": "AI Research Engineer & Agentic AI Specialist",
+    "location": "India",
+    "languages": ["Python", "CUDA", "SQL", "Rust", "JavaScript", "Go"],
+    "ai_frameworks": ["LangChain", "CrewAI", "AutoGPT", "LlamaIndex"],
+    "llm_tools": ["Transformers", "LoRA", "QLoRA", "PEFT", "Unsloth", "vLLM"],
+    "ml_frameworks": ["PyTorch", "TensorFlow", "Hugging Face", "Ollama"],
+    "vector_databases": ["ChromaDB", "Pinecone", "Qdrant", "Weaviate", "FAISS"],
+    "deployment": ["Docker", "Kubernetes", "MLflow", "AWS", "GCP"],
     "specialties": ["Agentic AI", "LLM Fine-tuning", "RAG Systems", "MCP"]
 }
 ```
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitagarwaldev&show_icons=true&theme=radical&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arpitagarwaldev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitagarwaldev&layout=compact&theme=tokyonight&langs_count=6"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitagarwaldev&layout=compact&theme=radical&hide_border=true&langs_count=4&hide=html,jupyter%20notebook)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arpitagarwaldev&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arpitagarwaldev&theme=tokyonight)
 
 </div>
 
@@ -122,14 +132,16 @@ Next-generation Retrieval-Augmented Generation architecture
 
 <div align="center">
 
-**⭐ Star my repositories if you find them useful!**
+### ⭐ Star repositories if you find them useful!
 
-**Arpit Agarwal** | **@arpitagarwaldev** | **AI Research Engineer & Agentic AI Specialist**
+**Arpit Agarwal** | **@arpitagarwaldev** | **AI Research Engineer**
 
-*Transforming ideas into digital solutions*
+*Building the future of AI, one agent at a time*
+
+![Visitor Count](https://profile-counter.glitch.me/arpitagarwaldev/count.svg)
 
 </div>
 
 ---
 
-*Keywords: Arpit Agarwal, arpitagarwaldev, agentic AI, AI agents, LLM fine-tuning, LoRA, QLoRA, PEFT, RAG systems, Multi-Context Protocol, MCP, small language models, SLM, vector databases, autonomous AI, AI research engineer*
+**SEO Keywords:** Arpit Agarwal, arpitagarwaldev, AI Research Engineer, Agentic AI, AI Agents, LLM Fine-tuning, LoRA, QLoRA, PEFT, RAG Systems, Multi-Context Protocol, MCP, Small Language Models, SLM, Vector Databases, Autonomous AI, Machine Learning, Deep Learning, Python AI Developer, AI Consultant, LangChain, CrewAI, Hugging Face, PyTorch, TensorFlow, India AI Developer

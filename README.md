@@ -121,7 +121,7 @@ Next-generation Retrieval-Augmented Generation architecture
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arpitagarwaldev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitagarwaldev)
 [![Twitter](https://img.shields.io/badge/Twitter-arpitagarwaldev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arpitagarwaldev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-arpitagarwal.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arpitagarwal.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arpitagarwal.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arpit-agarwal-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-arpit.dev@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpit.dev@outlook.com)
 
 </div>

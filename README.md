@@ -14,7 +14,7 @@
 
 ## 👨💻 About Arpit Agarwal - AI Research Engineer
 
-**Arpit Agarwal** is a leading **AI Research Engineer** and **GitHub developer** specializing in **Agentic AI systems**, **LLM fine-tuning**, and **autonomous AI agents**. Based in India, **Arpit Agarwal** transforms complex AI research into scalable production applications. Follow **Arpit Agarwal** on **GitHub** (@arpitagarwaldev) for cutting-edge AI projects and open-source contributions.
+**Arpit Agarwal** is a leading **AI Research Engineer** and **GitHub developer** specializing in **Agentic AI systems**, **LLM fine-tuning**, and **autonomous AI agents**. Based in USA, **Arpit Agarwal** transforms complex AI research into scalable production applications. Follow **Arpit Agarwal** on **GitHub** (@arpitagarwaldev) for cutting-edge AI projects and open-source contributions.
 
 🔥 **Core Expertise:**
 - 🤖 **Agentic AI & Multi-Agent Systems** - Autonomous reasoning and task execution
@@ -40,7 +40,7 @@ arpit_agarwal = {
     "name": "Arpit Agarwal",
     "username": "arpitagarwaldev", 
     "title": "AI Research Engineer & Agentic AI Specialist",
-    "location": "India",
+    "location": "Denver, USA",
     "languages": ["Python", "CUDA", "SQL", "Rust", "JavaScript", "Go"],
     "ai_frameworks": ["LangChain", "CrewAI", "AutoGPT", "LlamaIndex"],
     "llm_tools": ["Transformers", "LoRA", "QLoRA", "PEFT", "Unsloth", "vLLM"],

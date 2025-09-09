@@ -1,4 +1,4 @@
-# Arpit Agarwal - AI Research Engineer | GitHub: @arpitagarwaldev
+# Arpit Agarwal - Senior AI Engineer | GitHub: @arpitagarwaldev
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 </div>
 
-## 👨💻 About Arpit Agarwal - Senior AI Research Engineer
+## 👨💻 About Arpit Agarwal - Senior AI Engineer
 
 **Arpit Agarwal** is a leading **AI Research Engineer** and **GitHub developer** specializing in **Agentic AI systems**, **LLM fine-tuning**, and **autonomous AI agents**. Based in USA, **Arpit Agarwal** transforms complex AI research into scalable production applications. Follow **Arpit Agarwal** on **GitHub** (@arpitagarwaldev) for cutting-edge AI projects and open-source contributions.
 

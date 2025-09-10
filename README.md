@@ -107,7 +107,7 @@ AI-themed portfolio with neural network animations
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arpitagarwaldev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitagarwaldev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-arpitagarwal.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arpit-agarwal-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arpitagarwal.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arpitagarwaldev.github.io/)
 [![Email](https://img.shields.io/badge/Email-arpit.dev@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpit.dev@outlook.com)
 [![Phone](https://img.shields.io/badge/Phone-+1--720--710--6105-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+17207106105)
 

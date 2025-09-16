@@ -8,7 +8,7 @@
 [![Profile views](https://komarev.com/ghpvc/?username=arpitagarwaldev&color=brightgreen)](https://github.com/arpitagarwaldev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arpit%20Agarwal-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/arpitagarwaldev)
 
-**Arpit Agarwal Git Profile** | **GitHub Repository** | **AI Developer Portfolio**
+**Arpit Agarwal Git Profile** | **GitHub Repository** | **AI Developer**
 
 </div>
 
